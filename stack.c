@@ -11,4 +11,4 @@ pop()
 {}
 display()
 {}
-exit
+exit(123)
